@@ -11,8 +11,8 @@
 .controls {
     position: absolute;
     z-index: 10;
-    top: 100px;
-    left: 50%;
+    top: 30px;
+    left: 40%;
     transform: translateX(-50%);
 }
 
