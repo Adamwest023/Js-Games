@@ -13,7 +13,7 @@ let frameX = 0;
 let frameY = 0;
 //variables to slow down animation
 let gameFrame = 0;
-const staggerFrames = 6;
+const staggerFrames = 6``;
 
 function animate() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
